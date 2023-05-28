@@ -21,7 +21,7 @@
     margin: 0;
 }
 #image{
-    width: 1200px;
+    width: 1000px;
 }
 ul{ 
     max-width: 550px; 
@@ -43,7 +43,7 @@ blockquote {
     display: block; 
     height: auto; 
     margin: 0 auto;
-    @media (max-width: 460px)
+    
         
 } 
        
