@@ -1,0 +1,57 @@
+.container{
+    align-content: center;
+    text-align: center;
+    background-color: brown;
+    color: white;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif; 
+    line-height: 1.5;
+  
+}
+.h1{
+    font-size: 60px;  
+}
+#img-div{
+    background-image:url(image/student.jpg) ;
+    width: 1600px;
+    background-blend-mode:overlay; 
+    background-size: cover; 
+    background-color:#7c1515;
+    padding: 10px;
+    margin: 0;
+}
+#image{
+    width: 1200px;
+}
+ul{ 
+    max-width: 550px; 
+    margin: 0 auto 50px auto;
+    text-align: left; 
+    line-height: 1.6; 
+}
+li { 
+    margin: 16px 0; 
+}
+blockquote { 
+    font-style: italic; 
+    max-width: 545px;
+    margin: 0 auto 50px auto; 
+    text-align: left; 
+}
+ img {
+    max-width: 100%;
+    display: block; 
+    height: auto; 
+    margin: 0 auto;
+    @media (max-width: 460px)
+        
+} 
+       
+#img-caption { 
+    margin: 15px 0 5px 0;
+    color: #fff;
+    
+}
+a{
+    color: #fff;
+}
